@@ -1,6 +1,6 @@
-# README - Progetto LifeSim Chain
+# README - Progetto LifeSim
 
-Questo pacchetto contiene tutti i materiali sviluppati per il progetto LifeSim Chain, un innovativo gioco di simulazione di vita basato su blockchain.
+Questo pacchetto contiene tutti i materiali sviluppati per il progetto LifeSim, un innovativo gioco di simulazione di vita basato su blockchain.
 
 ## Contenuto del Pacchetto
 
@@ -37,4 +37,4 @@ Per ulteriori informazioni o chiarimenti sul progetto, non esitare a contattarci
 
 ---
 
-LifeSim Chain © 2025 - Un progetto open source
+LifeSim © 2025 - Un progetto open source
