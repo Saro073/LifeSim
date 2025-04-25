@@ -1,4 +1,4 @@
-// character_stats.js - Character statistics system for LifeSim Chain
+// character_stats.js - Character statistics system for LifeSim
 
 /**
  * CharacterStats - Manages character attributes and their evolution over time
