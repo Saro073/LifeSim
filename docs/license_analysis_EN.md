@@ -1,8 +1,8 @@
-# Open Source License for LifeSim Chain
+# Open Source License for LifeSim
 
 ## Analysis of License Options
 
-For the LifeSim Chain project, a license is needed that balances the open source approach with the possibility of maintaining a small royalty for the original creator. Below are the most suitable options analyzed.
+For the LifeSim project, a license is needed that balances the open source approach with the possibility of maintaining a small royalty for the original creator. Below are the most suitable options analyzed.
 
 ### 1. Modified MIT License
 
