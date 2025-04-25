@@ -1,11 +1,9 @@
-# LifeSim Chain - Lista delle attività
+# LifeSim - Lista delle attività
 
 ## Analisi e pianificazione
-- [x] Leggere e analizzare l'idea dell'utente
-- [x] Porre domande di chiarimento all'utente
-- [x] Ricercare strumenti di sviluppo di giochi adatti per principianti
+- [x] Leggere e analizzare l'idea del creator
+- [x] Porre domande di chiarimento al creator
 - [x] Proporre un approccio di sviluppo realistico
-- [x] Aggiornare l'approccio di sviluppo per includere la strategia open source
 - [x] Creare un Game Design Document dettagliato
 
 ## Sviluppo del prototipo
