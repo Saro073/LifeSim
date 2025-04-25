@@ -1,4 +1,4 @@
-# Opzioni di Stile per l'Interfaccia di LifeSim Chain
+# Opzioni di Stile per l'Interfaccia di LifeSim
 
 ## Stile Minimalista
 
@@ -88,7 +88,7 @@ Svantaggi: Può sembrare sovraccarico o datato rispetto ai design più moderni.
 
 ## Raccomandazione
 
-Basandoci sul concept di LifeSim Chain, che combina elementi di simulazione di vita con tecnologia blockchain, suggeriamo di considerare:
+Basandoci sul concept di LifeSim, che combina elementi di simulazione di vita con tecnologia blockchain, suggeriamo di considerare:
 
 1. **Flat Design** per un'interfaccia principale pulita e moderna
 2. **Elementi Minimalisti** per le statistiche e i dati
