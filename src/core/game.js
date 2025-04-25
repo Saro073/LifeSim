@@ -1,4 +1,4 @@
-// game.js - Main game initialization and coordination for LifeSim Chain
+// game.js - Main game initialization and coordination for LifeSim
 
 /**
  * Game - Main game class that coordinates all systems
