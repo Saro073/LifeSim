@@ -9,10 +9,14 @@ This package contains all the materials developed for the LifeSim Chain project,
 - `docs/game_design_document_IT.md`: Detailed game design document (Italian)
 - `docs/approccio_open_source_EN.md`: Strategy for open source development (English)
 - `docs/approccio_open_source_IT.md`: Strategy for open source development (Italian)
-- `docs/proposta_sviluppo_EN.md`: Development approach and roadmap (English)
-- `docs/proposta_sviluppo_IT.md`: Development approach and roadmap (Italian)
-- `docs/strumenti_sviluppo_EN.md`: Development tools analysis (English)
-- `docs/strumenti_sviluppo_IT.md`: Development tools analysis (Italian)
+- `docs/dev_proposal_EN.md`: Development approach and roadmap (English)
+- `docs/dev_proposal_IT.md`: Development approach and roadmap (Italian)
+- `docs/dev_tools_EN.md`: Development tools analysis (English)
+- `docs/dev_tools_EN.md`: Development tools analysis (Italian)
+- `docs/licence_analisys_IT`: Licence analisys (Italian)
+- `docs/licence_analisys_EN`: Licence analisys (English)
+- `docs/original_concept_IT`: presentation original concept (Italian)
+- `docs/original_concept_IT`: presentation original concept (English)
 
 ### 2. User Interface Mockups
 - `mockups/`: Contains mockups in four different styles (minimalist, pixel art, flat design, skeuomorphic)
