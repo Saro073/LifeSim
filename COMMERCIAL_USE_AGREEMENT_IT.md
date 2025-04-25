@@ -1,10 +1,10 @@
-# Accordo di Uso Commerciale - LifeSim Chain
+# Accordo di Uso Commerciale - LifeSim
 
 Questo Accordo di Uso Commerciale ("Accordo") è un contratto legale tra l'utente ("Licenziatario") e il creatore originale del progetto LifeSim Chain ("Licenziante").
 
 ## 1. Definizioni
 
-1.1 **"Software"** si riferisce al progetto LifeSim Chain, inclusi tutti i codici sorgente, documentazione, asset e materiali correlati.
+1.1 **"Software"** si riferisce al progetto LifeSim, inclusi tutti i codici sorgente, documentazione, asset e materiali correlati.
 
 1.2 **"Uso Commerciale"** si riferisce a qualsiasi utilizzo del Software che genera direttamente o indirettamente un reddito o altro vantaggio economico, inclusi ma non limitati a:
    - Vendita di accesso al Software o a servizi basati sul Software
@@ -21,7 +21,7 @@ Questo Accordo di Uso Commerciale ("Accordo") è un contratto legale tra l'utent
 
 ## 3. Royalty
 
-3.1 Il Licenziatario accetta di pagare al Licenziante una Royalty del 2% sui ricavi lordi derivanti dall'Uso Commerciale del Software.
+3.1 Il Licenziatario accetta di pagare al Licenziante una Royalty del 3% sui ricavi lordi derivanti dall'Uso Commerciale del Software.
 
 3.2 I pagamenti delle Royalty devono essere effettuati trimestralmente, entro 30 giorni dalla fine di ogni trimestre solare.
 
@@ -50,7 +50,7 @@ Questo Accordo di Uso Commerciale ("Accordo") è un contratto legale tra l'utent
 
 ## 8. Disposizioni Generali
 
-8.1 Questo Accordo è regolato dalle leggi di [Giurisdizione].
+8.1 Questo Accordo è regolato dalle leggi italiane.
 
 8.2 Qualsiasi controversia derivante da o relativa a questo Accordo sarà risolta mediante arbitrato secondo le regole di [Autorità di Arbitrato].
 
@@ -60,4 +60,4 @@ Questo Accordo di Uso Commerciale ("Accordo") è un contratto legale tra l'utent
 
 Firmando o utilizzando il Software per Uso Commerciale, il Licenziatario accetta di essere vincolato dai termini di questo Accordo.
 
-Per domande o chiarimenti su questo Accordo, contattare: [Informazioni di contatto]
+Per domande o chiarimenti su questo Accordo, contattare: scicolonerosario@gmail.com
