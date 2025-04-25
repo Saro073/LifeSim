@@ -9,10 +9,14 @@ Questo pacchetto contiene tutti i materiali sviluppati per il progetto LifeSim C
 - `docs/game_design_document_EN.md`: Documento dettagliato di design del gioco (Inglese)
 - `docs/approccio_open_source_IT.md`: Strategia per lo sviluppo open source (Italiano)
 - `docs/approccio_open_source_EN.md`: Strategia per lo sviluppo open source (Inglese)
-- `docs/proposta_sviluppo_IT.md`: Approccio di sviluppo e roadmap (Italiano)
-- `docs/proposta_sviluppo_EN.md`: Approccio di sviluppo e roadmap (Inglese)
-- `docs/strumenti_sviluppo_IT.md`: Analisi degli strumenti di sviluppo (Italiano)
-- `docs/strumenti_sviluppo_EN.md`: Analisi degli strumenti di sviluppo (Inglese)
+- `docs/dev_proposal_IT.md`: Approccio di sviluppo e roadmap (Italiano)
+- `docs/dev_proposal_EN.md`: Approccio di sviluppo e roadmap (Inglese)
+- `docs/dev_tools_IT.md`: Analisi degli strumenti di sviluppo (Italiano)
+- `docs/dev_tools_EN.md`: Analisi degli strumenti di sviluppo (Inglese)
+- `docs/licence_analisys_IT`: analisi delle licenze (Italiano)
+- `docs/licence_analisys_EN`: analisi delle licenze (Inglese)
+- `docs/original_concept_IT`: presentazione idea originale (Italiano)
+- `docs/original_concept_EN`: presentazione idea originale (Inglese)
 
 ### 2. Mockup dell'Interfaccia Utente
 - `mockups/`: Contiene mockup in quattro stili diversi (minimalista, pixel art, flat design, skeuomorphic)
