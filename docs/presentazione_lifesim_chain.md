@@ -1,11 +1,11 @@
-# LifeSim Chain
+# LifeSim
 ## Un innovativo gioco di simulazione di vita basato su blockchain
 
 ---
 
 ## Panoramica del Progetto
 
-LifeSim Chain è un rivoluzionario gioco di simulazione di vita che combina:
+LifeSim è un rivoluzionario gioco di simulazione di vita che combina:
 
 - **Simulazione di vita completa** dalla nascita alla morte e oltre
 - **Tecnologia blockchain** per garantire proprietà e valore reale
@@ -125,11 +125,9 @@ Ogni stile è stato applicato a:
 
 ## Conclusione
 
-LifeSim Chain rappresenta un'innovazione significativa nel campo dei giochi di simulazione di vita, combinando:
+LifeSim rappresenta un'innovazione significativa nel campo dei giochi di simulazione di vita, combinando:
 
 - Meccaniche di gioco profonde e significative
 - Tecnologia blockchain all'avanguardia
 - Approccio open source e collaborativo
 - Potenziale di monetizzazione reale
-
-Il progetto è pronto per passare alla fase di sviluppo del prototipo funzionale, con una visione chiara e una roadmap definita.
