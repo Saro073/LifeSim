@@ -1,4 +1,4 @@
-# Proposta di Approccio di Sviluppo per LifeSim Chain
+# Proposta di Approccio di Sviluppo per LifeSim
 
 ## Panoramica
 
