@@ -1,4 +1,4 @@
-// choices_system.js - Choice and consequence system for LifeSim Chain
+// choices_system.js - Choice and consequence system for LifeSim
 
 /**
  * ChoicesSystem - Manages player choices and their consequences
